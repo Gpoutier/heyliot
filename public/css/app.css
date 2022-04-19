@@ -1,0 +1,48 @@
+.container {
+    display:flex;
+    align-items:center;
+}
+p {
+    margin-left: 10px;
+}
+h3 {
+    margin-top : 10px
+}
+.svg1 {
+    background: #ffecd2;
+    border-radius: 50%;
+    height: 20px;
+    fill: #ffd292
+}
+.svg2 {
+    background: #e5f0fe;
+    border-radius: 50%;
+    height: 20px;
+    fill: #679efa
+}
+.svg3 {
+    background: #ffeefd;
+    border-radius: 50%;
+    height: 20px;
+    fill: #ffcdfa
+}
+
+.premierElement {
+    border-radius: 10px;
+    background: #ffecd2;
+    padding: 20px;
+    height: 20px;
+}
+.deuxiemeElement {
+    border-radius: 10px;
+    background:  #e5f0fe;
+    padding: 20px;
+    height: 20px;
+}
+.troisiemeElement {
+    border-radius: 10px;
+    background: #ffeefd;
+    padding: 20px;
+    height: 20px;
+}
+
